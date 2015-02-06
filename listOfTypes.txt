@@ -1,0 +1,63 @@
+label name/file location
+
+Birthday Card
+happybday.mp3
+Balloons/balloons.gif
+Cake/cake1.gif
+Candle/candleG.gif
+Flowers/flowersG.gif
+Gift/gift.gif
+Train/trainG.gif
+Frame/flowerPatternG.gif
+
+Thank You Card
+ThankYou.mp3
+Writing/Thank-you.gif
+Writing2/thankyou.gif
+Background/tybackground.gif
+Border/tyborder.gif
+Flowers/tyflower.gif
+Flowers2/tyflower1.gif
+Smile/tysmiley.gif
+
+Congratulations
+pomp-and-circumstance.mp3
+Writing/congrats.gif
+Confetti/confetti.gif
+Grad Cap/graduationcap.gif
+Flower/carnation.gif
+Toast/toast.gif
+Star/star.gif
+Trophy/trophy.gif
+
+Happy Valentine's
+LightUpMyLife.mp3
+Bear/teddyBear.gif
+Border/border.gif
+Border2/border2.gif
+Cupid/cupid.gif
+Chocolate/chocolate.gif
+Flowers/flowers.gif
+Heart/hearts.gif
+
+
+Merry Christmas
+christmas.mp3
+Bells/ChristmasBells.gif
+Gift/gift.gif
+Rudolph/rudolph.gif
+Santa/santa.gif
+Snowman/snowman.gif
+Tree/christmasTree.gif
+Wreath/christmaswreath.gif
+
+
+Get Well Soon
+GWSSong.mp3
+Writing/gwsWriting.png
+Bear/gwsTeddyBear.gif
+Cast/cast1.gif
+Flower/gwsflower.gif
+Giraffe/sickGiraffe.gif
+Broken Leg/cast.gif
+In Bed/sick.gif
